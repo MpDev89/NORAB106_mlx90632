@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "c:\\ncs\\toolchains\\0b393f9e1b",
+  "sdkPath": "c:\\ncs\\v2.2.0",
+  "board": "ubx_evknorab10_nrf5340_cpuapp_ns",
+  "boardDir": "c:/ncs/v2.2.0/zephyr/boards/arm/ubx_evknorab10_nrf5340_ncs220",
+  "boardDirs": [
+    "c:/ncs/v2.2.0/zephyr/boards/arm/ubx_evknorab10_nrf5340_ncs220"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [
+    "prj.conf"
+  ],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

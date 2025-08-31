@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "i2c_drv.h": "c",
+        "log.h": "c",
+        "device.h": "c",
+        "printk.h": "c",
+        "mlx90632.h": "c",
+        "util.h": "c",
+        "stdint.h": "c",
+        "kernel.h": "c",
+        "gpio.h": "c"
+    }
+}
