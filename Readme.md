@@ -78,7 +78,7 @@ Data is monitored using Serial Monitor:
 ![Alt text](images/SerialMonitor.png)
 
 ## 🗒️ Licensing
-This project includes original code from Melexis N.V. under the Apache 2.0 License.
+This project includes original code from Melexis N.V. under the Apache 2.0 License. See the LICENSE file for details.
 Additional functionality was added by Marconatale Parise in June 2025, including:
 - Data structure to extrapolate sensor data. 
 - Function to improve the code readability and for debug
