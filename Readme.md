@@ -36,6 +36,7 @@ Sensor MLX90632 can be soldered or surface mounted where the following pin match
 | GND    | #3 |
 | P1.02 (SDA)     | #1 |
 | P1.03 (SCL)     | #4 |
+
 I2C requires pull-up resistors on its signal lines as shown in this picture:
 ![Alt text](images/HardwareSetup.png)
 MLX90632 soldered is available with evaluation board EVB90632.
@@ -60,7 +61,7 @@ MLX90632 soldered is available with evaluation board EVB90632.
 ## 📦 Github Setup
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/MpDev89/NORAB106_mlx90632.git
 cd project-name
 ```
 
@@ -86,5 +87,5 @@ Custom code for function are marked specifying the author (@author Marconatale P
 
 ## 🌐 Contatti
 [![Email](https://img.shields.io/badge/mail-marconatale%20parise-blue)](mailto:mp@tech-in-mind.it)  
-[![LinkedIn](https://img.shields.io/badge/badge-marconatale%20parise-green)](https://www.linkedin.com/in/marconatale-parise-48a07b94)  
-[![GitHub](https://img.shields.io/badge/badge-Github-black)](https://github.com/MpDev89)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-marconatale%20parise-blue)](https://www.linkedin.com/in/marconatale-parise-48a07b94)  
+[![GitHub](https://img.shields.io/badge/Account-Github-black)](https://github.com/MpDev89)
