@@ -39,6 +39,7 @@ Sensor MLX90632 can be soldered or surface mounted where the following pin match
 
 I2C requires pull-up resistors on its signal lines as shown in this picture:
 ![Alt text](images/HardwareSetup.png)
+
 MLX90632 soldered is available with evaluation board EVB90632.
 
 ## 🏗️ Software Toolchain Setup
@@ -80,7 +81,8 @@ Data is monitored using Serial Monitor:
 This project includes original code from Melexis N.V. under the Apache 2.0 License.
 Additional functionality was added by Marconatale Parise in June 2025, including:
 - Data structure to extrapolate sensor data. 
-- Function to improve the code readability and for debug 
+- Function to improve the code readability and for debug
+
 Custom code for variables and constant are marked with:
     /* === Added by Marconatale Parise for.. [description of the new code] === */
 Custom code for function are marked specifying the author (@author Marconatale Parise) in the description.
