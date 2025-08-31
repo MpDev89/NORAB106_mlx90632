@@ -84,7 +84,8 @@ Additional functionality was added by Marconatale Parise in June 2025, including
 - Function to improve the code readability and for debug
 
 Custom code for variables and constant are marked with:
-    /* === Added by Marconatale Parise for.. [description of the new code] === */
+/* === Added by Marconatale Parise for.. [description of the new code] === */
+
 Custom code for function are marked specifying the author (@author Marconatale Parise) in the description.
 
 ## 🌐 Contatti
