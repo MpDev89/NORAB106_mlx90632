@@ -15,9 +15,9 @@
  *
  *****************************************************************************/
 /**
- * @file gpio_abstract.h
- * @brief this file contain a clean interface based on Zephyr GPIO function and create an abstract interface 
- * to manage gpio pins based structure data.
+ * @file gpio_hal.h
+ * @brief this file contain a clean interface based on Zephyr GPIO and device tree macro function 
+ * and create an abstract layer to manage gpio pins based structure data.
  *
  * The following functions will be implemented:
  * - gpio_enable_interrupt() to enable or disable gpio interrupt for the specific channel
@@ -33,8 +33,8 @@
  *
  */
 
-#ifndef __GPIO_ABSTRACT_H__
-#define __GPIO_ABSTRACT_H__
+#ifndef __GPIO_HAL_H__
+#define __GPIO_HAL_H__
 
 #include "common.h"
 #include "gpio_dt.h"

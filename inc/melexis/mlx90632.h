@@ -42,7 +42,7 @@
 #include <zephyr/kernel.h>
 #include "common.h"
 #include "mlx90632_extended_meas.h"
-#include "mlx90632_drv.h"
+#include "mlx90632_hal.h"
 #include <math.h>
 #include <stdio.h>
 

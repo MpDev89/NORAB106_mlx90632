@@ -4575,7 +4575,7 @@ void mlx90632_read(){
    12d78:	0001c128 	.word	0x0001c128
 
 00012d7c <mlx90632_i2c_read>:
-#include "mlx90632_drv.h"
+#include "mlx90632_hal.h"
 
 uint8_t error_melexis90632 = 0;
 

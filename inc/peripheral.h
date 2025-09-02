@@ -26,8 +26,8 @@
 #define __PERIPHERAL_H__
 
 #include "common.h"
-#include "gpio_abstract.h"
-#include "mlx90632_drv.h"
+#include "gpio_hal.h"
+#include "mlx90632_hal.h"
 #include "mlx90632.h"
 #include "i2c_comm.h"
 

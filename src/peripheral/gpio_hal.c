@@ -15,7 +15,7 @@
  *
  *****************************************************************************/
 /**
- * @file gpio_abstract.c
+ * @file gpio_hal.c
  * @brief Abstraction of gpio interface 
  *
  * This implementation file provides interface based on Zephyr GPIO functions  
@@ -25,7 +25,7 @@
  * @date 09 June 2025
  *
  */
-#include "gpio_abstract.h"
+#include "gpio_hal.h"
 
 uint8_t error_gpio = 0;
 

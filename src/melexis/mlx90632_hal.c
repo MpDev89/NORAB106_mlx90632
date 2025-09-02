@@ -15,7 +15,7 @@
  *
  *****************************************************************************/
 /**
- * @file mlx90632_drv.c
+ * @file mlx90632_hal.c
  * @brief Abstraction of i2c protocol interface
  *
  * This implementation file provides an abstraction interface to manage i2c peripheral.
@@ -24,7 +24,7 @@
  * @date 09 June 2025
  *
  */
-#include "mlx90632_drv.h"
+#include "mlx90632_hal.h"
 
 uint8_t error_melexis90632 = 0;
 
